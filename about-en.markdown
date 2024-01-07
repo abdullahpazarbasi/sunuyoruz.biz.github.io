@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+locale: en_US
 permalink: /en/about/
 published: true
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hakkımızda
+locale: tr_TR
 permalink: /tr/about/
 published: true
 ---
